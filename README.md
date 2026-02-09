@@ -1,8 +1,3 @@
-Here's your complete `README.md` file for the GitHub project **Shopper Spectrum**:
-
----
-
-````markdown
 # 🛒 Shopper Spectrum: Customer Segmentation and Product Recommendations in E-Commerce
 
 This end-to-end machine learning project segments customers based on purchasing behavior and recommends similar products using collaborative filtering. Built using Python, the solution combines data preprocessing, clustering (KMeans), cosine similarity, and a clean interactive Streamlit interface for business-ready insights.
@@ -49,7 +44,6 @@ Once downloaded, place the file in your project directory and rename it as:
    ```bash
    git clone https://github.com/yourusername/shopper-spectrum.git
    cd shopper-spectrum
-````
 
 2. 📦 Install dependencies
 
